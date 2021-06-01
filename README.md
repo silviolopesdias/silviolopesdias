@@ -4,8 +4,8 @@
 <h3> :man: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions. 
-- 🎓 &nbsp; Studying ** Development** at  <a href="https://dashboard.kiwify.com.br/courses/">CODECLUB</a>.
-- 💼 &nbsp; Working as **Ambient air Conditioning** in <a href="https://spturis.com/v7/">SPTuris</a>
+- 🎓 &nbsp; Studying ** Development** at  <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a>.
+- 💼 &nbsp; Working as **Ambient air Conditioning** in <a href="https://spturis.com/v7/" target=" _blank">SPTuris</a>
 - 🌱 &nbsp; Learning about **HTML, CSS, JavaScript**.
 <h3> :rocket: &nbsp;My Skills </h3>
 
