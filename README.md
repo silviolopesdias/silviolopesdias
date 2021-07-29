@@ -44,6 +44,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Silvio ](https://img.shields.io/badge/-silviolopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=DO-SEU-LINKEDIN)](https://www.linkedin.com/in/silvio-lopes-dias-516a3a55/)
+[![Linkedin: Silvio ](https://img.shields.io/badge/-silviolopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=DO-SEU-LINKEDIN)](https://www.linkedin.com/in/silvio-lopes-dias-69bbba214/)
 [![Gmail Badge](https://img.shields.io/badge/-silvio.sandra@live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvio.sandra@live.com)](mailto:silvio.sandra@live.com)
 [![GitHub silviolopesdias]( https://img.shields.io/github/followers/silviolopesdias?label=follow&style=social)](https://github.com/silviolopesdias)
