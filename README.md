@@ -55,6 +55,9 @@
 
 <br/>
 
+[![Repo Card]( https://github-readme-stats.vercel.app/api/pin/?username=silviolopesdias&repo=code-burguer-react&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/silviolopesdias/code-burguer-react)
+
+
 <h3> :earth_americas: &nbsp;Conecte-se comigo: </h3> 
 
 [![Linkedin: Silvio ](https://img.shields.io/badge/-silviolopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=DO-SEU-LINKEDIN)](https://www.linkedin.com/in/silvio-lopes-dias-69bbba214/)
